@@ -17,3 +17,5 @@ curl -X 'GET' \
   'http://localhost:5001/weatherforecast' \
   -H 'accept: application/json'
 ~~~
+
+[Deploy dockder image to kubernete](https://medium.com/tech-blogs-by-nest-digital/how-to-easily-deploy-an-api-with-net-core-to-kubernetes-on-docker-dd2b5e978d75)
